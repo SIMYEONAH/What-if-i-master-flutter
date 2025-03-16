@@ -14,6 +14,13 @@ From UI practice to state management (Provider, Riverpod) and animations, we exp
 - Provider & Riverpod 상태 관리 연습하기
 - 애니메이션을 활용한 멋진 UI 만들기
 - 플러터 프로젝트를 체계적으로 관리하는 방법 배우기
+  </br>
+  </br>
+  </br>
+- Understand the basics of Flutter UI components
+- Practice state management with Provider & Riverpod
+- Create stunning UI with animations
+- Learn to structure and manage Flutter projects efficiently
 
 ## 📂 폴더 구조 (Folder Structure)
 
@@ -52,6 +59,14 @@ flutter run
 1. 이 레포를 **Fork** 합니다.
 2. 새로운 기능을 추가한 후 **Pull Request(PR)** 를 보냅니다.
 3. 함께 성장해요! 🚀
+
+</br>
+</br>
+</br>
+
+1. **Fork** this repository.
+2. Add new features and create a **Pull Request (PR)**.
+3. Let's grow together! 🚀
 
 ## 📌 참고 자료
 
